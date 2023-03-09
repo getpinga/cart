@@ -1,6 +1,6 @@
 # Pinga Cart
 
-This is a very simple PHP cart library. Cart data can either be saved in PHP session or browser cookie. Maintained and expanded by Taras Kondratyuk and based on seikan/Cart
+This is a very simple PHP cart library. Cart data can either be saved in PHP session or browser cookie. Maintained and expanded by Taras Kondratyuk and based on seikan/Cart.
 
 ## Usage
 
