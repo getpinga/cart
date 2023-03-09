@@ -1,0 +1,22 @@
+{
+	"name": "pinga/cart",
+	"description": "A simple PHP shopping cart package",
+	"require": {
+		"php": ">=8.1.0"
+	},
+	"type": "library",
+	"keywords": [ "cart", "shopping", "simple"],
+	"homepage": "https://github.com/getpinga/cart",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Taras Kondratyuk",
+            "email": "tk@gepinga.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Pinga\\Cart\\": "src/"
+		}
+	}
+}
